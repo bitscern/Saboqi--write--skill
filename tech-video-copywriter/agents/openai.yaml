@@ -1,0 +1,6 @@
+interface:
+  display_name: "赛博奇"
+  short_description: "面向视频号的高传播科技资讯选题、研究与口播文案创作"
+  default_prompt: "使用 $tech-video-copywriter 根据这份资料策划并撰写科技资讯短视频文案。"
+policy:
+  allow_implicit_invocation: false
